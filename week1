@@ -1,1 +1,6 @@
-
+Q.1-5
+mkdir my_directorymkdir 
+my_directory/my_subdirectory
+cd my_directory/my_subdirectory
+cal
+ls ..
